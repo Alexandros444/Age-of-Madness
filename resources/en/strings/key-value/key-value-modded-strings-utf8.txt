@@ -1,0 +1,23 @@
+//INSTRUCTIONS:
+//When you create any mod by creating a directory inside Steam, 
+//certain files will automatically copy over, including this 
+//file when you run the game. If you want to replace or add any
+//strings, place them in this file and when the mod is enabled, 
+//these strings will also be added. The english string file is 
+//a global fallback when a string cannot be found in the 
+//desired native language file.
+//
+//If you would like to modify an existing string, copy only
+//the strings you wish to modify into this file, and do not
+//delete them from the original file.
+
+//5992 "Yaroslav the Wise"
+
+5121 "Alpha Male"
+
+6000 "Dirty doosh bag"
+6001 "Create Dirty doosh bag"
+26001 "Create <b>Dirty doosh bag<b> (<cost>)\nIs as dirty as a pig. Keep em off your Mother, or else he might try to hump her. Is only suitable for slaugther.\nUse him to feed your precious species."
+
+
+26121 "Create <b>Villager<b> (<cost>)\nGathers your MOM. Builds and repairs buildings. Also repairs ships and siege weapons.<i> Upgrades: hit points, armor, efficiency (Town Center); wood resource-gathering (Lumber Camp); stone, gold resource-gathering (Mining Camp); build speed (University); attack (Castle); more resistant to Monks (Monastery).<i>\n<hp> <attack> <armor> <piercearmor> <range>"

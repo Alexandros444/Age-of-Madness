@@ -1,0 +1,7 @@
+DONE Female Villager geathern Male Villager (Male Spawn food corpse)
+DONE -> Town center muss ressourcen anvisieren können, reconvert von villager male
+
+DONE Berry Bushes move, NOPE create at mill
+
+tribuchet fires cows ?? ka komischer feuer arc geschafft, keine graphics änderung
+
