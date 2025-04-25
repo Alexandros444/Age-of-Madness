@@ -1,0 +1,552 @@
+{"frames": [
+
+{
+	"filename": "impact_trebuchet_smoke_01.png",
+	"frame": {"x":785,"y":1953,"w":48,"h":46},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":232,"y":262,"w":48,"h":46},
+	"sourceSize": {"w":512,"h":512},
+	"pivot": {"x":0.5,"y":0.556641}
+},
+{
+	"filename": "impact_trebuchet_smoke_02.png",
+	"frame": {"x":1,"y":1979,"w":60,"h":56},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":224,"y":256,"w":60,"h":56},
+	"sourceSize": {"w":512,"h":512},
+	"pivot": {"x":0.5,"y":0.556641}
+},
+{
+	"filename": "impact_trebuchet_smoke_03.png",
+	"frame": {"x":1661,"y":1371,"w":66,"h":64},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":222,"y":250,"w":66,"h":64},
+	"sourceSize": {"w":512,"h":512},
+	"pivot": {"x":0.5,"y":0.556641}
+},
+{
+	"filename": "impact_trebuchet_smoke_04.png",
+	"frame": {"x":1589,"y":1803,"w":76,"h":74},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":216,"y":246,"w":76,"h":74},
+	"sourceSize": {"w":512,"h":512},
+	"pivot": {"x":0.5,"y":0.556641}
+},
+{
+	"filename": "impact_trebuchet_smoke_05.png",
+	"frame": {"x":1947,"y":1437,"w":88,"h":84},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":210,"y":242,"w":88,"h":84},
+	"sourceSize": {"w":512,"h":512},
+	"pivot": {"x":0.5,"y":0.556641}
+},
+{
+	"filename": "impact_trebuchet_smoke_06.png",
+	"frame": {"x":687,"y":1953,"w":96,"h":94},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":206,"y":238,"w":96,"h":94},
+	"sourceSize": {"w":512,"h":512},
+	"pivot": {"x":0.5,"y":0.556641}
+},
+{
+	"filename": "impact_trebuchet_smoke_07.png",
+	"frame": {"x":1485,"y":1803,"w":102,"h":104},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":202,"y":232,"w":102,"h":104},
+	"sourceSize": {"w":512,"h":512},
+	"pivot": {"x":0.5,"y":0.556641}
+},
+{
+	"filename": "impact_trebuchet_smoke_08.png",
+	"frame": {"x":1921,"y":413,"w":112,"h":112},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":196,"y":228,"w":112,"h":112},
+	"sourceSize": {"w":512,"h":512},
+	"pivot": {"x":0.5,"y":0.556641}
+},
+{
+	"filename": "impact_trebuchet_smoke_09.png",
+	"frame": {"x":1921,"y":291,"w":126,"h":120},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":192,"y":224,"w":126,"h":120},
+	"sourceSize": {"w":512,"h":512},
+	"pivot": {"x":0.5,"y":0.556641}
+},
+{
+	"filename": "impact_trebuchet_smoke_10.png",
+	"frame": {"x":1347,"y":1803,"w":136,"h":130},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":186,"y":222,"w":136,"h":130},
+	"sourceSize": {"w":512,"h":512},
+	"pivot": {"x":0.5,"y":0.556641}
+},
+{
+	"filename": "impact_trebuchet_smoke_11.png",
+	"frame": {"x":1199,"y":1799,"w":146,"h":140},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":182,"y":218,"w":146,"h":140},
+	"sourceSize": {"w":512,"h":512},
+	"pivot": {"x":0.5,"y":0.556641}
+},
+{
+	"filename": "impact_trebuchet_smoke_12.png",
+	"frame": {"x":1503,"y":1371,"w":156,"h":148},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":176,"y":214,"w":156,"h":148},
+	"sourceSize": {"w":512,"h":512},
+	"pivot": {"x":0.5,"y":0.556641}
+},
+{
+	"filename": "impact_trebuchet_smoke_13.png",
+	"frame": {"x":687,"y":1793,"w":160,"h":158},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":174,"y":208,"w":160,"h":158},
+	"sourceSize": {"w":512,"h":512},
+	"pivot": {"x":0.5,"y":0.556641}
+},
+{
+	"filename": "impact_trebuchet_smoke_14.png",
+	"frame": {"x":1029,"y":1805,"w":172,"h":168},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":166,"y":202,"w":172,"h":168},
+	"sourceSize": {"w":512,"h":512},
+	"pivot": {"x":0.5,"y":0.556641}
+},
+{
+	"filename": "impact_trebuchet_smoke_15.png",
+	"frame": {"x":849,"y":1805,"w":176,"h":178},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":162,"y":194,"w":176,"h":178},
+	"sourceSize": {"w":512,"h":512},
+	"pivot": {"x":0.5,"y":0.556641}
+},
+{
+	"filename": "impact_trebuchet_smoke_16.png",
+	"frame": {"x":1819,"y":1251,"w":184,"h":186},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":156,"y":188,"w":184,"h":186},
+	"sourceSize": {"w":512,"h":512},
+	"pivot": {"x":0.5,"y":0.556641}
+},
+{
+	"filename": "impact_trebuchet_smoke_17.png",
+	"frame": {"x":1819,"y":1051,"w":190,"h":198},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":152,"y":182,"w":190,"h":198},
+	"sourceSize": {"w":512,"h":512},
+	"pivot": {"x":0.5,"y":0.556641}
+},
+{
+	"filename": "impact_trebuchet_smoke_18.png",
+	"frame": {"x":487,"y":1837,"w":198,"h":210},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":150,"y":176,"w":198,"h":210},
+	"sourceSize": {"w":512,"h":512},
+	"pivot": {"x":0.5,"y":0.556641}
+},
+{
+	"filename": "impact_trebuchet_smoke_19.png",
+	"frame": {"x":267,"y":1837,"w":210,"h":218},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":142,"y":172,"w":210,"h":218},
+	"sourceSize": {"w":512,"h":512},
+	"pivot": {"x":0.5,"y":0.556641}
+},
+{
+	"filename": "impact_trebuchet_smoke_20.png",
+	"frame": {"x":1819,"y":817,"w":220,"h":232},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":136,"y":166,"w":220,"h":232},
+	"sourceSize": {"w":512,"h":512},
+	"pivot": {"x":0.5,"y":0.556641}
+},
+{
+	"filename": "impact_trebuchet_smoke_21.png",
+	"frame": {"x":1805,"y":569,"w":230,"h":246},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":130,"y":162,"w":230,"h":246},
+	"sourceSize": {"w":512,"h":512},
+	"pivot": {"x":0.5,"y":0.556641}
+},
+{
+	"filename": "impact_trebuchet_smoke_22.png",
+	"frame": {"x":1567,"y":569,"w":236,"h":258},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":128,"y":158,"w":236,"h":258},
+	"sourceSize": {"w":512,"h":512},
+	"pivot": {"x":0.5,"y":0.556641}
+},
+{
+	"filename": "impact_trebuchet_smoke_23.png",
+	"frame": {"x":1547,"y":1123,"w":246,"h":270},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":122,"y":152,"w":246,"h":270},
+	"sourceSize": {"w":512,"h":512},
+	"pivot": {"x":0.5,"y":0.556641}
+},
+{
+	"filename": "impact_trebuchet_smoke_24.png",
+	"frame": {"x":849,"y":1517,"w":256,"h":286},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":116,"y":148,"w":256,"h":286},
+	"sourceSize": {"w":512,"h":512},
+	"pivot": {"x":0.5,"y":0.556641}
+},
+{
+	"filename": "impact_trebuchet_smoke_25.png",
+	"frame": {"x":1199,"y":1257,"w":264,"h":302},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":112,"y":142,"w":264,"h":302},
+	"sourceSize": {"w":512,"h":512},
+	"pivot": {"x":0.5,"y":0.556641}
+},
+{
+	"filename": "impact_trebuchet_smoke_26.png",
+	"frame": {"x":301,"y":659,"w":272,"h":312},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":108,"y":138,"w":272,"h":312},
+	"sourceSize": {"w":512,"h":512},
+	"pivot": {"x":0.5,"y":0.556641}
+},
+{
+	"filename": "impact_trebuchet_smoke_27.png",
+	"frame": {"x":311,"y":377,"w":280,"h":322},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":104,"y":136,"w":280,"h":322},
+	"sourceSize": {"w":512,"h":512},
+	"pivot": {"x":0.5,"y":0.556641}
+},
+{
+	"filename": "impact_trebuchet_smoke_28.png",
+	"frame": {"x":635,"y":371,"w":286,"h":340},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":130,"w":286,"h":340},
+	"sourceSize": {"w":512,"h":512},
+	"pivot": {"x":0.5,"y":0.556641}
+},
+{
+	"filename": "impact_trebuchet_smoke_29.png",
+	"frame": {"x":1651,"y":1,"w":288,"h":358},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":92,"y":124,"w":288,"h":358},
+	"sourceSize": {"w":512,"h":512},
+	"pivot": {"x":0.5,"y":0.556641}
+},
+{
+	"filename": "impact_trebuchet_smoke_30.png",
+	"frame": {"x":1279,"y":1,"w":292,"h":370},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":118,"w":292,"h":370},
+	"sourceSize": {"w":512,"h":512},
+	"pivot": {"x":0.5,"y":0.556641}
+},
+{
+	"filename": "impact_trebuchet_smoke_31.png",
+	"frame": {"x":1,"y":819,"w":290,"h":386},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":82,"y":114,"w":290,"h":386},
+	"sourceSize": {"w":512,"h":512},
+	"pivot": {"x":0.5,"y":0.556641}
+},
+{
+	"filename": "impact_trebuchet_smoke_32.png",
+	"frame": {"x":1,"y":413,"w":298,"h":404},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":80,"y":108,"w":298,"h":404},
+	"sourceSize": {"w":512,"h":512},
+	"pivot": {"x":0.5,"y":0.556641}
+},
+{
+	"filename": "impact_trebuchet_smoke_33.png",
+	"frame": {"x":1,"y":1,"w":308,"h":410},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":72,"y":102,"w":308,"h":410},
+	"sourceSize": {"w":512,"h":512},
+	"pivot": {"x":0.5,"y":0.556641}
+},
+{
+	"filename": "impact_trebuchet_smoke_34.png",
+	"frame": {"x":633,"y":1,"w":316,"h":368},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":66,"y":98,"w":316,"h":368},
+	"sourceSize": {"w":512,"h":512},
+	"pivot": {"x":0.5,"y":0.556641}
+},
+{
+	"filename": "impact_trebuchet_smoke_35.png",
+	"frame": {"x":311,"y":1,"w":320,"h":374},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":64,"y":92,"w":320,"h":374},
+	"sourceSize": {"w":512,"h":512},
+	"pivot": {"x":0.5,"y":0.556641}
+},
+{
+	"filename": "impact_trebuchet_smoke_36.png",
+	"frame": {"x":951,"y":1,"w":326,"h":354},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":60,"y":86,"w":326,"h":354},
+	"sourceSize": {"w":512,"h":512},
+	"pivot": {"x":0.5,"y":0.556641}
+},
+{
+	"filename": "impact_trebuchet_smoke_37.png",
+	"frame": {"x":1279,"y":295,"w":272,"h":368},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":118,"y":80,"w":272,"h":368},
+	"sourceSize": {"w":512,"h":512},
+	"pivot": {"x":0.5,"y":0.556641}
+},
+{
+	"filename": "impact_trebuchet_smoke_38.png",
+	"frame": {"x":271,"y":1207,"w":276,"h":362},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":116,"y":74,"w":276,"h":362},
+	"sourceSize": {"w":512,"h":512},
+	"pivot": {"x":0.5,"y":0.556641}
+},
+{
+	"filename": "impact_trebuchet_smoke_39.png",
+	"frame": {"x":1,"y":1599,"w":264,"h":378},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":130,"y":68,"w":264,"h":378},
+	"sourceSize": {"w":512,"h":512},
+	"pivot": {"x":0.5,"y":0.556641}
+},
+{
+	"filename": "impact_trebuchet_smoke_40.png",
+	"frame": {"x":1,"y":1207,"w":268,"h":390},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":130,"y":64,"w":268,"h":390},
+	"sourceSize": {"w":512,"h":512},
+	"pivot": {"x":0.5,"y":0.556641}
+},
+{
+	"filename": "impact_trebuchet_smoke_41.png",
+	"frame": {"x":1649,"y":295,"w":270,"h":272},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":132,"y":58,"w":270,"h":272},
+	"sourceSize": {"w":512,"h":512},
+	"pivot": {"x":0.5,"y":0.556641}
+},
+{
+	"filename": "impact_trebuchet_smoke_42.png",
+	"frame": {"x":271,"y":1571,"w":264,"h":276},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":142,"y":52,"w":264,"h":276},
+	"sourceSize": {"w":512,"h":512},
+	"pivot": {"x":0.5,"y":0.556641}
+},
+{
+	"filename": "impact_trebuchet_smoke_43.png",
+	"frame": {"x":1405,"y":1523,"w":266,"h":278},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":142,"y":48,"w":266,"h":278},
+	"sourceSize": {"w":512,"h":512},
+	"pivot": {"x":0.5,"y":0.556641}
+},
+{
+	"filename": "impact_trebuchet_smoke_44.png",
+	"frame": {"x":1673,"y":1437,"w":272,"h":284},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":140,"y":42,"w":272,"h":284},
+	"sourceSize": {"w":512,"h":512},
+	"pivot": {"x":0.5,"y":0.556641}
+},
+{
+	"filename": "impact_trebuchet_smoke_45.png",
+	"frame": {"x":1673,"y":1723,"w":268,"h":288},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":146,"y":38,"w":268,"h":288},
+	"sourceSize": {"w":512,"h":512},
+	"pivot": {"x":0.5,"y":0.556641}
+},
+{
+	"filename": "impact_trebuchet_smoke_46.png",
+	"frame": {"x":1547,"y":829,"w":270,"h":292},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":144,"y":34,"w":270,"h":292},
+	"sourceSize": {"w":512,"h":512},
+	"pivot": {"x":0.5,"y":0.556641}
+},
+{
+	"filename": "impact_trebuchet_smoke_47.png",
+	"frame": {"x":1107,"y":1523,"w":274,"h":296},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":142,"y":30,"w":274,"h":296},
+	"sourceSize": {"w":512,"h":512},
+	"pivot": {"x":0.5,"y":0.556641}
+},
+{
+	"filename": "impact_trebuchet_smoke_48.png",
+	"frame": {"x":549,"y":1517,"w":274,"h":298},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":142,"y":28,"w":274,"h":298},
+	"sourceSize": {"w":512,"h":512},
+	"pivot": {"x":0.5,"y":0.556641}
+},
+{
+	"filename": "impact_trebuchet_smoke_49.png",
+	"frame": {"x":977,"y":357,"w":276,"h":302},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":142,"y":24,"w":276,"h":302},
+	"sourceSize": {"w":512,"h":512},
+	"pivot": {"x":0.5,"y":0.556641}
+},
+{
+	"filename": "impact_trebuchet_smoke_50.png",
+	"frame": {"x":615,"y":931,"w":274,"h":302},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":142,"y":22,"w":274,"h":302},
+	"sourceSize": {"w":512,"h":512},
+	"pivot": {"x":0.5,"y":0.556641}
+},
+{
+	"filename": "impact_trebuchet_smoke_51.png",
+	"frame": {"x":293,"y":933,"w":272,"h":308},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":144,"y":18,"w":272,"h":308},
+	"sourceSize": {"w":512,"h":512},
+	"pivot": {"x":0.5,"y":0.556641}
+},
+{
+	"filename": "impact_trebuchet_smoke_52.png",
+	"frame": {"x":615,"y":659,"w":270,"h":306},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":144,"y":18,"w":270,"h":306},
+	"sourceSize": {"w":512,"h":512},
+	"pivot": {"x":0.5,"y":0.556641}
+},
+{
+	"filename": "impact_trebuchet_smoke_53.png",
+	"frame": {"x":923,"y":661,"w":262,"h":310},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":148,"y":14,"w":262,"h":310},
+	"sourceSize": {"w":512,"h":512},
+	"pivot": {"x":0.5,"y":0.556641}
+},
+{
+	"filename": "impact_trebuchet_smoke_54.png",
+	"frame": {"x":1255,"y":569,"w":258,"h":310},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":148,"y":12,"w":258,"h":310},
+	"sourceSize": {"w":512,"h":512},
+	"pivot": {"x":0.5,"y":0.556641}
+},
+{
+	"filename": "impact_trebuchet_smoke_55.png",
+	"frame": {"x":1235,"y":829,"w":256,"h":310},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":152,"y":10,"w":256,"h":310},
+	"sourceSize": {"w":512,"h":512},
+	"pivot": {"x":0.5,"y":0.556641}
+},
+{
+	"filename": "impact_trebuchet_smoke_56.png",
+	"frame": {"x":923,"y":925,"w":244,"h":310},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":156,"y":10,"w":244,"h":310},
+	"sourceSize": {"w":512,"h":512},
+	"pivot": {"x":0.5,"y":0.556641}
+},
+{
+	"filename": "impact_trebuchet_smoke_57.png",
+	"frame": {"x":549,"y":1207,"w":238,"h":308},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":162,"y":10,"w":238,"h":308},
+	"sourceSize": {"w":512,"h":512},
+	"pivot": {"x":0.5,"y":0.556641}
+},
+{
+	"filename": "impact_trebuchet_smoke_58.png",
+	"frame": {"x":789,"y":1207,"w":226,"h":308},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":160,"y":8,"w":226,"h":308},
+	"sourceSize": {"w":512,"h":512},
+	"pivot": {"x":0.5,"y":0.556641}
+},
+{
+	"filename": "impact_trebuchet_smoke_59.png",
+	"frame": {"x":1017,"y":1171,"w":180,"h":308},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":170,"y":8,"w":180,"h":308},
+	"sourceSize": {"w":512,"h":512},
+	"pivot": {"x":0.5,"y":0.556641}
+},
+{
+	"filename": "impact_trebuchet_smoke_60.png",
+	"frame": {"x":1235,"y":1087,"w":168,"h":310},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":174,"y":6,"w":168,"h":310},
+	"sourceSize": {"w":512,"h":512},
+	"pivot": {"x":0.5,"y":0.556641}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "impact_trebuchet_smoke_atlas.tga",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":2048},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:c3331511c19144ea9ccc964b1045c7e5:80f75d2cf712349aa550f815554879ef:b7658220f79731b87c6bf2768f29e9c0$"
+}
+}
